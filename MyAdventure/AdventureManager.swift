@@ -58,7 +58,7 @@ class AdventureManager {
         )
         
         story[4] = AdventureChoice(
-            text: "Congratulations! You hit the mother lode. Do you open the other chest?",
+            text: "Congratulations! You're rich! look at all that gold. Do you open the other chest?",
             option1: "Yes, open the other chest",
             option2: "No, leave with your treasure",
             option1Next: 3,
